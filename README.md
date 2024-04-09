@@ -38,8 +38,6 @@ Para empezar a utilizar Bootstrap en un proyecto, simplemente necesitamos inclui
 </html>
 
 
-Este README proporciona una visión general de los conceptos básicos de Bootstrap y cómo se pueden aplicar en proyectos web. Se puede expandir con ejemplos específicos, enlaces a recursos adicionales, y cualquier otra información relevante para los estudiantes que estén aprendiendo Bootstrap en la asignatura de Lenguajes de Marcas.
-
 
 ## Grid System
 
