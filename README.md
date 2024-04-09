@@ -42,8 +42,10 @@ Este README proporciona una visión general de los conceptos básicos de Bootstr
 
 
 ## Grid System
-El sistema de rejilla (grid system) de Bootstrap nos permite crear diseños flexibles y adaptables a diferentes dispositivos y tamaños de pantalla. Se basa en un sistema de filas (<div class="row">) y columnas (<div class="col">) que se distribuyen de forma fluida.
 
+El sistema de rejilla (grid system) de Bootstrap nos permite crear diseños flexibles y adaptables a diferentes dispositivos y tamaños de pantalla. Se basa en un sistema de filas (`<div class="row">`) y columnas (`<div class="col">`) que se distribuyen de forma fluida.
+
+```html
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
@@ -54,6 +56,7 @@ El sistema de rejilla (grid system) de Bootstrap nos permite crear diseños flex
         </div>
     </div>
 </div>
+
 
 
 Por supuesto, aquí tienes un ejemplo de un archivo README.md para GitHub sobre apuntes de Bootstrap desarrollados en la asignatura de Lenguajes de Marcas:
